@@ -8,10 +8,11 @@
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jsonwebtokens-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/gradle-%2302303A.svg?&style=for-the-badge&logo=gradle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/apache%20maven-%23C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -33,9 +34,9 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
+  
 </div>
 
 <br>
