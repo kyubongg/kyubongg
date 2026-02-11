@@ -1,7 +1,6 @@
 # Yoo-KyuBong
 
-<!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KyuBong's GitHub%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KyuBong's GitHub%20render&fontSize=90" />
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
