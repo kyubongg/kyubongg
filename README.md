@@ -65,13 +65,13 @@
 
 <div align="left">
   <b>Collaboration:</b> 
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <br>
   <b>Design & IDE:</b>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=flat-square&logo=visualstudio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visualstudio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
