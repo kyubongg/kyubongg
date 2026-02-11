@@ -1,6 +1,6 @@
 # Yoo-KyuBong
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyubong's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyubong's%20GitHub&fontSize=50)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
