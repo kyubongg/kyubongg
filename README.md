@@ -82,13 +82,3 @@
   <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
