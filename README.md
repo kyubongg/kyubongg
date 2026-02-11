@@ -60,9 +60,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyubongg&show_icons=true&theme=radical&bg_color=1c1c1c&title_color=6DB33F&text_color=ffffff" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyubongg&layout=compact&theme=radical&bg_color=1c1c1c&title_color=6DB33F&text_color=ffffff" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyubongg&theme=react-dark&area=true&hide_border=true" width="100%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/kyubongg?style=social" />
+  <img src="https://img.shields.io/github/stars/kyubongg?style=social" />
+</div>>
 
 <br>
 
