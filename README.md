@@ -31,7 +31,7 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={rbqhd9709})](https://solved.ac/{rbqhd9709})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=rbqhd9709)](https://solved.ac/rbqhd9709)
 
 <br>
 
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
 </div>
 
-<h4 align="center"> FrontEnd
+<h4 align="center"> FrontEnd </h4>
   <br>
 <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
