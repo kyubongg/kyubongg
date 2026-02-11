@@ -30,8 +30,11 @@
 
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=rbqhd9709)](https://solved.ac/rbqhd9709)
+<div align="center">
+  <a href="https://solved.ac/rbqhd9709">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=rbqhd9709" />
+  </a>
+</div>
 
 <br>
 
