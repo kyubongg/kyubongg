@@ -1,48 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=250&section=header&text=Kyubong's%20GitHub&fontSize=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=220&section=header&text=Kyubong's%20GitHub&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Spring+Boot+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-<br>
+<p align="center">
+  Spring Boot를 중심으로<br/>
+  안정적인 백엔드 시스템을 만들고 성장하는 개발자입니다.
+</p>
 
-## 🚀 Tech Stack
 
-<h3 align="left"> 🛠 BackEnd </h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Jenkins-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Kubernetes%20%7C%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
 
-<br>
+## 🛠 Tech Stack
 
-<h3 align="left"> 🎨 FrontEnd </h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-</div>
+<h3 align="center">BackEnd</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postgres,fastapi&perline=6" />
+</p>
 
-<br>
+<h3 align="center">Build Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gradle,maven&perline=2" />
+</p>
+
+<h3 align="center">Infra</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,grafana,prometheus,linux&perline=6" />
+</p>
+
+<h3 align="center">FrontEnd</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,vue,react&perline=3" />
+</p>
+
+<h3 align="center">Collaboration</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,notion&perline=4" />
+</p>
+
 
 ---
 
 ## 📚 Currently Learning
 
-<div align="left">
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=kubernetes,kafka&perline=5)](https://skillicons.dev)
 </div>
 
 <br>
@@ -60,18 +71,4 @@
 <br>
 
 ---
-
-## 🛠 Tools & Contact
-
-<div align="left">
-  <b>Collaboration:</b> 
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <br>
-  <b>Design & IDE:</b>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visualstudio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</div>
 
