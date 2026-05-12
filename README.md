@@ -33,7 +33,7 @@
 
 <h3 align="center">Infra</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,grafana,prometheus,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,linux&perline=6" />
 </p>
 
 <h3 align="center">FrontEnd</h3>
